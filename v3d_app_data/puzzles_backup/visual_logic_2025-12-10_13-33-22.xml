@@ -1,0 +1,19 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="19.999999999999545" scrolly="20" scale="0.9"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="2.983566284179801" scrolly="-22.197319984436035" scale="0.9567529062943828">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id=":[B-KsJy(tkSVCieoz^^" inline="false" x="10" y="70">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="ll`6a;aR5eTxw7NR!i1o">
+          <field name="FIELDNAME">&lt;none&gt;</field>
+        </shadow>
+      </value>
+    </block>
+  </tab>
+  <editorsettings viewport-x="750" viewport-y="37" viewport-w="512" viewport-h="293.5" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
